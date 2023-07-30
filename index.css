@@ -187,3 +187,9 @@ label {
   background-color: #bd301d;
   border: 2px solid #bd301d;
 }
+
+@media (max-width: 600px) {
+  .char-modal {
+    width: 380px;
+  }
+}
